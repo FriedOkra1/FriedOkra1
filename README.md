@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a data science project. <br>I'm looking to collaborate with other people<br>I'm currently learning python and JS<br>I'm currently looking for help with JS<br>Aspiring Comp Sci Student
+I'm currently working on a data science project. <br>I'm looking to collaborate with other people<br>I'm currently learning python and JS<br>Aspiring Comp Sci Student
 
 
 ## 🌐 Socials:
