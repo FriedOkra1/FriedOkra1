@@ -10,5 +10,6 @@ Actively looking for oppurtunities in tech
 ## Contact
 
 - Email: [contactayushmadhav@gmail.com](mailto:contactayushmadhav@gmail.com)
-- LinkedIn: [linkedin.com/in/ayushmk](https://linkedin.com/in/ayushmk)
+- LinkedIn: [linkedin.com/in/ayushmk](https://linkedin.com/in/ayushmk)\
+- Website: ayushmadhav.com
 
